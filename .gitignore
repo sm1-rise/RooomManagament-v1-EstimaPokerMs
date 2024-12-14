@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### ENVS ###
-.application.yml
+.application.yaml
